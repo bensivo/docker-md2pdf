@@ -23,3 +23,6 @@ function md2pdf() {
 ```
 
 Put this in your bashrc, and run it anywhere
+
+## WARNING
+Because this container is built on Ubuntu, and runs on pandoc + latex, it ends up being very large. Final container size is around 2.5 MB. 
